@@ -1,3 +1,12 @@
-#CS310-sofware Engineering 
-## Course Project 
-This is A testing Project for demo
+# مشروع MyApp - خطوات الإنشاء والرفع على GitHub
+
+هذا الملف يشرح الخطوات التي قمنا بها لإنشاء مشروع جديد باستخدام **Git** وربطه مع **GitHub**.
+
+---
+
+## 1️⃣ إنشاء الملفات الأولية
+في البداية أنشأنا ملفين فارغين داخل مجلد المشروع:
+
+```bash
+touch student.java
+touch report.txt
